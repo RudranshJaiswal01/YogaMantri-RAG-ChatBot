@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+chromadb
+tiktoken
+python-dotenv
+groq
+requests
+python-docx 
+pypdf
+python-dotenv
+python-multipart
+pymongo

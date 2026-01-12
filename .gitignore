@@ -1,0 +1,6 @@
+
+.env
+__pycache__/
+backend/__pycache__/
+rag/__pycache__/
+db/__pycache__/

@@ -103,7 +103,7 @@ Before running the application, create a `.env` file inside the **root directory
 
 ```env
 MONGODB_URI=mongodb+srv://<username>:<password>@<cluster-url>/
-GROQ_API_KEY=your_openai_api_key_here
+GROQ_API_KEY=your_groq_api_key_here
 HF_API_TOKEN=your_huggingface_api_key_here
 ```
 

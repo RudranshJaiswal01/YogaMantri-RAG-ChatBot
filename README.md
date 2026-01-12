@@ -91,6 +91,8 @@ The frontend is statically built and served directly by the FastAPI backend, all
 
 The Android app is a WebView-based wrapper around the hosted web application, generated using Bubblewrap. The APK is fully functional and requires no local setup.
 
+[click here to get the `.apk` file](https://drive.google.com/drive/folders/1fMLJnrV0lM5bA0cmiYm8V4fov1pq6jJg)
+
 ---
 
 ## How to Run Locally

@@ -19,7 +19,7 @@ from rag.rebuild_internal import rebuild_vector_db_internal
 from db.mongo_db import log_query, log_feedback
 from db.vector_db import vector_store_is_empty
 
-app = FastAPI(title="HR Knowledge Base RAG Assistant")
+app = FastAPI(title="YogaMantri-RAG-Chatbot")
 app.include_router(admin_router)
 app.add_middleware(
     CORSMiddleware,
